@@ -10,7 +10,7 @@ class Page extends React.Component {
     render() {
         return (
             <div>
-                 <Header heading="Weather portal"/>
+                 <Header heading="Weather Portal"/>
       <Nav/>
     <Weather/>
     <Footer authorName="Eby Saju"/>

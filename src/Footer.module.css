@@ -1,6 +1,7 @@
 footer{
     padding: 1px;
   background:lightcoral;
-  color: white;
+  color: black;
   font-size: 20px;
+  text-align: center;
 }
