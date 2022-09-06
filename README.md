@@ -6,7 +6,7 @@
 
 
 
-##REST API
+## REST API
 https://openweathermap.org/
 
 
